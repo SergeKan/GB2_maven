@@ -1,1 +1,1 @@
-# GB2_maven
+#простой проект:maven+git+junit
